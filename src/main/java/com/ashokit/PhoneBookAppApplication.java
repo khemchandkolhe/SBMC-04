@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PhoneBookAppApplication {
 
 	public static void main(String[] args) {
+		system.out.println();
 		SpringApplication.run(PhoneBookAppApplication.class, args);
 	}
 
